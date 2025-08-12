@@ -9,4 +9,4 @@ You may run the GUI by running the `THz_TDS_GUI.py` file from your IDE after ins
 ```
 The .exe file will end up in `/dist/THz TDS GUI.exe` and can be copied to the Desktop, or distributed to a lab computer on a USB-drive.
 
-With the .exe file, Python does not need to be installed on that computer. The programs runs like any other Windows application.
+With the .exe file, Python does not need to be installed on that computer. The program runs like any other Windows application.
